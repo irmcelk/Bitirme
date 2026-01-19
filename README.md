@@ -1,4 +1,4 @@
-Teknolojinin gelişmesiyle beraber her geçen gün yeni saldırılar ortaya çıkmakta ve network güvenliğinin önemi her geçen gün ˘
+Teknolojinin gelişmesiyle beraber her geçen gün yeni saldırılar ortaya çıkmakta ve network güvenliğinin önemi her geçen gün
 artmaktadır. Endüstriyel alanda network güvenligi çok riskli bir konu haline gelmiştir.
 Saldırıları erken tespit edebilen ve önlem alınabilen sistemlere ihtiyaç da artmıştır. Bu
 projede trafikteki saldırıların tespitinin yapılması amaçlanmıştır.
